@@ -56,6 +56,3 @@ In this section you will find Yara rules specialised toward the identification o
 
 In this section you will find Yara rules deprecated.
 
-
-Twitter account: https://twitter.com/yararules
-
